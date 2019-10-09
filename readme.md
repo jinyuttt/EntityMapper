@@ -6,3 +6,4 @@
 有netframework,net core,.net Standard。
 
 用法：EMMapper.Map调用（静态方法）
+nuget:JYEntityMapper ,EntityMapperStd 
