@@ -1,0 +1,5 @@
+E:\Study\EntityMapper\ETMapper\bin\Debug\ETMapper.dll
+E:\Study\EntityMapper\ETMapper\bin\Debug\ETMapper.pdb
+E:\Study\EntityMapper\ETMapper\obj\Debug\ETMapper.dll
+E:\Study\EntityMapper\ETMapper\obj\Debug\ETMapper.pdb
+E:\Study\EntityMapper\ETMapper\obj\Debug\ETMapper.csprojAssemblyReference.cache

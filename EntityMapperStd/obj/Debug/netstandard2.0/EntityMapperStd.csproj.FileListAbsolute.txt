@@ -1,0 +1,8 @@
+E:\Study\EntityMapper\EntityMapperStd\bin\Debug\netstandard2.0\EntityMapperStd.deps.json
+E:\Study\EntityMapper\EntityMapperStd\bin\Debug\netstandard2.0\EntityMapperStd.dll
+E:\Study\EntityMapper\EntityMapperStd\bin\Debug\netstandard2.0\EntityMapperStd.pdb
+E:\Study\EntityMapper\EntityMapperStd\obj\Debug\netstandard2.0\EntityMapperStd.csprojAssemblyReference.cache
+E:\Study\EntityMapper\EntityMapperStd\obj\Debug\netstandard2.0\EntityMapperStd.AssemblyInfoInputs.cache
+E:\Study\EntityMapper\EntityMapperStd\obj\Debug\netstandard2.0\EntityMapperStd.AssemblyInfo.cs
+E:\Study\EntityMapper\EntityMapperStd\obj\Debug\netstandard2.0\EntityMapperStd.dll
+E:\Study\EntityMapper\EntityMapperStd\obj\Debug\netstandard2.0\EntityMapperStd.pdb
